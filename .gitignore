@@ -1,2 +1,3 @@
 /target
 /wasm/web_game.js
+/wasm/web_game_bg.wasm
