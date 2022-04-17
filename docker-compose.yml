@@ -1,0 +1,5 @@
+services:
+  rust:
+    container_name: rust_web_game
+    tty: true
+    build: .
